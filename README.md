@@ -1,4 +1,4 @@
 # TridiagonalMatrixAlgorithm
 tridiagonal matrix algorithm for lab and education
 
-// TODO: implement tridiagonal matrix algorithm
+Enter tridiagonal matrix; Get solution; Profit!
